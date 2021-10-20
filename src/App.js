@@ -112,6 +112,32 @@ function ChatMessage(props) {
 
   const messageClass = uid === auth.currentUser.uid ? 'sent' : 'received';
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  THE OFFERING OF FIRE
+
   return (
     <>
       <div className={`message ${messageClass}`}>
